@@ -10,4 +10,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = $localize`xlf-conflict-example`;
+  newLocaleString = $localize`xlf-conflict-example-2`;
 }

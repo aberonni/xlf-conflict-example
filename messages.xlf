@@ -11,6 +11,9 @@
       <trans-unit id="5468757275907225559" datatype="html">
         <source>Congratulations! Your app is running. 🎉</source>
       </trans-unit>
+      <trans-unit id="8391933859157031816" datatype="html">
+        <source>xlf-conflict-example-2</source>
+      </trans-unit>
     </body>
   </file>
 </xliff>
