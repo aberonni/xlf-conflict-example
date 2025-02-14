@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="3724591343089785757" datatype="html">
+        <source>Hello, <x id="INTERPOLATION" equiv-text="{{ title }}"/></source>
+      </trans-unit>
+      <trans-unit id="4499762952248556331" datatype="html">
+        <source>xlf-conflict-example</source>
+      </trans-unit>
+      <trans-unit id="5468757275907225559" datatype="html">
+        <source>Congratulations! Your app is running. 🎉</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
