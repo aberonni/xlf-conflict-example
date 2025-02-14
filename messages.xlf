@@ -11,6 +11,15 @@
       <trans-unit id="5468757275907225559" datatype="html">
         <source>Congratulations! Your app is running. 🎉</source>
       </trans-unit>
+      <trans-unit id="170115560383800074" datatype="html">
+        <source>Youtube</source>
+      </trans-unit>
+      <trans-unit id="1715373473261069991" datatype="html">
+        <source>Twitter</source>
+      </trans-unit>
+      <trans-unit id="3119797645194699699" datatype="html">
+        <source>Github</source>
+      </trans-unit>
     </body>
   </file>
 </xliff>
